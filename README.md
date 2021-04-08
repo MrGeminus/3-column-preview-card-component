@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/desktop-preview.jpg)
+![](images/desktop-preview.jpg/3000x)
 
 ### Links
 
