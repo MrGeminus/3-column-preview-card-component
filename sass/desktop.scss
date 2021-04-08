@@ -51,6 +51,8 @@ body{
         }
     }
         .first-card{
+            border-top-left-radius: 0.5rem;
+            border-bottom-left-radius: 0.5rem;
             background-color: hsl(31, 77%, 52%);
             button{
                 color: hsl(31, 77%, 52%); 
@@ -73,6 +75,8 @@ body{
             }
         }
         .third-card{
+            border-top-right-radius: 0.5rem;
+            border-bottom-right-radius: 0.5rem;
             background-color: hsl(179, 100%, 13%);
             button{
                 color: hsl(179, 100%, 13%); 
@@ -93,6 +97,7 @@ body{
         font-size: 0.93rem;
         font-family: 'Lexend Deca';
         text-align: center;
+        background-color: hsl(0, 2%, 91%);
       a {
         color: hsl(228, 45%, 44%);
       }
