@@ -30,18 +30,18 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MrGeminus/3-column-preview-card-component)
-- Live Site URL: [Add live site URL here](https://mrgeminus.github.io/3-column-preview-card-component/)
+- Solution URL: [https://github.com/MrGeminus/3-column-preview-card-component](https://github.com/MrGeminus/3-column-preview-card-component)
+- Live Site URL: [https://mrgeminus.github.io/3-column-preview-card-component/](https://mrgeminus.github.io/3-column-preview-card-component/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS pre-processor (SASS)
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
+- Mobile-first approach
 
 ### What I learned
 
