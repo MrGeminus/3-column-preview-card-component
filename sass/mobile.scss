@@ -19,6 +19,7 @@ body{
     justify-content: center;
     font-size: 0.93rem;
     background-color: hsl(0, 0%, 95%);
+    overflow-x: hidden;
     .card-container{
         margin: 4.5rem 1.5rem;
         display: grid;
@@ -100,4 +101,11 @@ body{
         text-decoration: none;
       }
       }
+}
+@media (max-width: 360px) {
+    body{
+        footer{
+            padding: 1rem 2.9rem;
+        }
+    }
 }
