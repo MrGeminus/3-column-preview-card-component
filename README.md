@@ -10,6 +10,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -27,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/MrGeminus/3-column-preview-card-component](https://github.com/MrGeminus/3-column-preview-card-component)
+- Solution URL: [https://www.frontendmentor.io/solutions/mobile-first-approach-with-sass-flexbox-and-css-grid-H-Z8k6NNX](https://www.frontendmentor.io/solutions/mobile-first-approach-with-sass-flexbox-and-css-grid-H-Z8k6NNX)
 - Live Site URL: [https://mrgeminus.github.io/3-column-preview-card-component/](https://mrgeminus.github.io/3-column-preview-card-component/)
 
 ## My process
@@ -39,9 +40,17 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first approach
+- BEM naming convention
+
+### Useful resources
+
+- [BEM](https://www.youtube.com/watch?v=er1JEDuPbZQ) - I really nice BEM explanation.
 
 ## Author
 
-- Website - [Uroš Tomić](https://mrgeminus.com/)
+- Website - [Uros Tomic](https://mrgeminus.com/)
 - Frontend Mentor - [@MrGeminus](https://www.frontendmentor.io/profile/MrGeminus)
+- LinkedIn - [Uros Tomic](https://www.linkedin.com/in/mrgeminus/)
+- Xing - [Uros Tomic](https://www.xing.com/profile/Uros_Tomic3/cv)
+- StackOverflow - [MrGeminus](https://www.linkedin.com/in/mrgeminus/)
 - Twitter - [@MrGeminus](https://twitter.com/MrGeminus)
